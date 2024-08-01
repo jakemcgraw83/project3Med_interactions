@@ -39,6 +39,7 @@ The goal is to recommend the most suitable medication for patients based on thei
 - **SpaCy**: NLP library.
 - **WordCloud**: Visualization of text data.
 - **Seaborn/Matplotlib**: Data visualization.
+- **VADER (vaderSentiment)**: Sentiment nalysis. 
 - **Whisper**: Speech-to-text model from OpenAI.
 
 ## Data Source
