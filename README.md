@@ -1,4 +1,4 @@
-# Project 3: Medicine Recommendation System
+# Project 3: Medicine Recommendation System with Sentiment Analysis
 
 ## Project Overview
 This project aims to build a machine learning model that recommends medications based on patient inputs using advanced NLP techniques and transformer models. We utilized various machine learning libraries, natural language processing (NLP) techniques, TF-IDF vectorization, cosine similarity, neural network model and deep learning to provide medication recommendations. Additionally, sentiment analysis is performed on user reviews to understand the general perception of the recommended medications. The project includes data preprocessing, model training, evaluation, and visualization of the results.
